@@ -1,10 +1,14 @@
 {
-  "name": " ",
+  "name": "@codfish/playground",
   "version": "0.0.1",
   "description": "",
-  "keywords": "",
+  "keywords": ["js", "html", "playground"],
   "license": "",
-  "author": "",
+  "author": {
+    "name": "Chris O'Donnell",
+    "email": "dev@codfish.io",
+    "url": "https://github.com/codfish"
+  },
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
